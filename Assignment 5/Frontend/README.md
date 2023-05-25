@@ -5,7 +5,7 @@
 The purpose of this assignment is to create a React Single Page App over your developed API.  The interface will allow the users to search for movies, display information about the movie, see stored ratings, and allow the user to enter a rating.
 
 ## Pre-Requirements
-- Assignment 3 deployed REACT app that supports SignUp and Logon
+- Assignment 3 deployed REACT app that supports SignUp and LogOn
 - Assignment 4 that supports reviews
 
 ## Requirements
@@ -22,17 +22,11 @@ The purpose of this assignment is to create a React Single Page App over your de
     - Extra Credit: (7 points) - chapter 25 of (https://www.amazon.com/dp/B0979MGJ5J?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_M9YGPJNZWB3BK0P59QX3) Movie Search – show results in a grid, accordion or other list control
         - Add Search API (HTTP POST) to the API that can take partial movie names or partial actor names
 
-## Submissions
+## Submission Content
 - User is able to Sign-up (name, username, password)
 - User is able to Logon to the application (username, password)
 - User is able to see list of movies and select a movie to see the detail screen (top rated movies displayed)
 - User is able to enter a review on the detail page (enter a rating and comment) – the logged in user’s username will be associated with the review (as captured from the JSON Web Token)
-
-## Rubic
-- -3 Not able to add comments
-- -2 Not aggregating rating (average rating)
-- -3 if not pointed to correct end point (e.g Hw4 endpoint)
-- -5 if you don’t have a react web site deployed 
 
 ## Resources
 - https://github.com/facebook/create-react-app
