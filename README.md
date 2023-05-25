@@ -14,12 +14,12 @@ The code contained within each folder was originally structured by the instructo
 
 - Link to deployed front-end Render website: https://csci3916-hilfer-assignment5.onrender.com/#/
 
-### Assignment 1 Folder
+### 📂 Assignment 1 Folder
 
 This directory holds the bare-bones beginning of where the work for the semester started. It is only useable as a postman project, and even then, that may be questionable 
 - I haven't personally tested the postman tests for this version of the project since the date of submission. I thereby dont know if this version of the assignment is still operational
 
-### Assignment 5 Folder 
+### 📂 Assignment 5 Folder 
 
 This directory holds the end product of this semester's worth of homework assignments.
 - The folder contains front and back-end directories for observers of this page to personally look over the code. However, these are not the actual project directories.
