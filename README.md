@@ -6,7 +6,7 @@
   </tr>
 </table>
 
-##  Web API Project Progression (Prototype)
+## The Next BlockBuster - Web API Project Progression (Prototype)
 
 This repository holds the beginning and endings of a Movie Database Web API project developed during the Spring semester of 2023 at the University of Colorado Denver.
 
