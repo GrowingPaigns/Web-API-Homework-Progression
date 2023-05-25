@@ -10,7 +10,9 @@
 
 This repository holds the beginning and endings of a Movie Database Web API project developed during the Spring semester of 2023 at the University of Colorado Denver.
 
-The code contained within each folder was originally structured by the instructor Shawn McCarthy, the role of the student throughout the semester was to provide updates to the existing code bases to implement different requests based off of the provided examples. It is primarily structured around *Node.js* and the *npm* package
+The code contained within each folder was originally structured by the instructor Shawn McCarthy, the role of the student throughout the semester was to provide updates to the existing code bases to implement different requests based off of the provided examples. 
+
+It is primarily structured around *Node.js* and the *npm* package
 
 - Link to deployed front-end Render website: https://csci3916-hilfer-assignment5.onrender.com/#/
 
